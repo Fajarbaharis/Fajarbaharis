@@ -3,7 +3,7 @@
 **Full-Stack Software Engineer**  
 Architecting Scalable Web Applications, Resilient Backends, and End-to-End Digital Solutions.
 
-[Email](mailto:admin@berseka.id) &bull; [GitHub](https://github.com/Fajarbaharis) &bull; [LinkedIn](https://linkedin.com/in/)
+[Email](mailto:fajarbelinda123@gmail.com) &bull; [GitHub](https://github.com/Fajarbaharis) &bull; [LinkedIn](https://linkedin.com/in/)
 
 ---
 
@@ -80,7 +80,7 @@ Versatile Full-Stack Software Engineer with proven experience designing, buildin
 
 ### Contact & Collaboration
 
-* **Email:** [admin@berseka.id](mailto:admin@berseka.id)
+* **Email:** [fajarbelinda123@gmail.com](mailto:admin@berseka.id)
 * **GitHub:** [github.com/Fajarbaharis](https://github.com/Fajarbaharis)
 * **Location:** Indonesia
 
